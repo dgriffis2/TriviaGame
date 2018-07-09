@@ -1,0 +1,51 @@
+body {
+    background-image:url(../../assests/images/background.jpg)
+}
+
+#header{
+    margin:20px;
+    background-image: url(../../assests/images/connectwork/connectwork.png);
+    color:gold;
+    height: 100px;
+}
+#contain_head{
+    width: 400px;
+    margin-bottom: 50px;
+}
+h1{
+    font-family: 'Chela One', cursive;
+    padding-top: 20px;
+}
+
+.content{
+    background-image: url(../../assests/images/connectwork/connectwork.png);
+    padding:30px;
+    height: 450px;
+    width: 800px;
+}
+.time-rem{
+    background-image: url(../../assests/images/connectwork/connectwork.png);
+    width: 800px;
+    
+}
+
+.qanda{
+    font-family: 'Chela One', cursive;
+    color:gold;
+    font-size: 30px;
+}
+
+.find_me{
+    background-color:black;
+}
+
+#question{
+    font-family: 'Chela One', cursive;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+#wrong-pic{
+    height: 250px;
+    width: 200px;
+}
